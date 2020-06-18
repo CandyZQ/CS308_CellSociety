@@ -113,7 +113,6 @@ already begun
 - Ability to allow simulations to be set by a specific grid, a list, or randomly
 - Started implementing different arrangement of neighbors and the different location shapes, but only completed for square
 and no UI to go with it
->>>>>>> master
 
 ### Notes/Assumptions
 
