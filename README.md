@@ -2,8 +2,12 @@ simulation
 ====
 
 This project implements a cellular automata simulator.
+> This is the link to the [assignment](http://www.cs.duke.edu/courses/compsci308/current/assign/02_simulation/)
 
-Names: Hannah Taubenfeld, Tharun Mani Raj, Cady Zhou
+Names: 
+- Hannah Taubenfeld
+- Tharun Mani Raj
+- Cady Zhou
 
 ### Timeline
 
@@ -99,10 +103,8 @@ Features implemented:
 - Reload File button to select a new XML file 
 - Step button to perform only one step of the simulation
 - Textfile and submit button to speed up the step of the simulation
-<<<<<<< HEAD
 - A Run Another Simulation button which enables the user to load another simulation and run it simultaneously.
 - The feature to click on cells to change the cell states in realtime.
-=======
 - Graph with line chart where every line represents a different state and quantity of that state at a given step
 - Ability for the user to interact and choose the size of the grid (number of rows and columns) after the simulation has
 already begun
